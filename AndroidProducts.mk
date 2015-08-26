@@ -1,0 +1,3 @@
+PRODUCT_MAKEFILES := \
+	$(LOCAL_DIR)/A7000.mk \
+	$(LOCAL_DIR)/omni_A7000.mk
